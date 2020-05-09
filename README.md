@@ -36,7 +36,7 @@ Vue.js 라는 예제 프로그램은 하이퍼 프로텍트 버츄얼 서버에�
 
   > 주의: 이 리파지토리에 있는 프로그램은 Hyper Protect DBaaS for MongoDB 도 지원 합니다. 그러나 현재의 설명은 PostgreSQL 위주로 되어 있습니다.
 
-##서비스 권한 부여
+## 서비스 권한 부여
 
 클라우드 오브젝트 스토리지 버켓이나 PostgreSQL 에 저장된 데이터를 암호와 하기 위해 다음의 절차에 따라 Hyper Protect Crypto Services 를 추가해 주세요. 
 
